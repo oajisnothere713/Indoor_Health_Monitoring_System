@@ -1,4 +1,4 @@
-# Monacos - Indoor Health Intelligence Hub
+# Monacos - Indoor Health Monitoring System
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Stack](https://img.shields.io/badge/Stack-React%20%7C%20FastAPI%20%7C%20Gemini-blue)
@@ -73,7 +73,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ### 2. Frontend Setup
 
 ```bash
-cd indoor-health-hub
+cd Indoor_Health_Monitoring_System
 # Install dependencies
 npm install
 
