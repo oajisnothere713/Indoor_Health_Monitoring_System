@@ -1,4 +1,4 @@
-# Indoor Health Hub - Project Logic & Feature Documentation
+# Indoor_Health_Monitoring_System - Project Logic & Feature Documentation
 
 ## 1. Project Overview
 **Name**: Monacos Indoor Health Hub
