@@ -87,7 +87,7 @@ npm run dev
 2. **Sign Up / Login**: Create an account to access the full dashboard and personalized settings.
 3. **Connect Device**:
     - Go to the **Devices** page.
-    - Click **Connect Bluetooth**.
+    - Click **Connect to Bluetooth**.
     - Select your **Monacos_Hub** device.
 4. **Ask the AI**:
     - Click the chat icon in the bottom right.
