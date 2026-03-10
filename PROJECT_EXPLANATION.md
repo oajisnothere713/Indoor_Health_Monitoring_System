@@ -121,4 +121,4 @@ An intelligent agent powered by Google Gemini (LLM) and LangChain.
 *   `backend/main.py`: The brain of the API.
 *   `backend/monacos.db`: The memory (database).
 *   `backend/agent_engine.py`: The AI logic.
-*   `backend/*_engine.py`: The specialized logic calculators.
+*   `backend/*_engine.py`: The specialized logic calculator . 
