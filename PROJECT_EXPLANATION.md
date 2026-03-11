@@ -86,7 +86,7 @@ Generates specific actions based on active issues.
 **Logic Location**: `backend/agent_engine.py`
 An intelligent agent powered by Google Gemini (LLM) and LangChain.
 *   **Capabilities**:
-    1.  **Live Awareness**: Can "see" the exact current sensor readings (unlike generic ChatGPT).
+    1.  **Live Awareness**: Can "see" the exact current sensor readings (unlike generic AI's).
     2.  **Context**: The prompt is pre-loaded with a summary of the **Last 7 Days** of data (Avg Temp, Max PM2.5, etc.) so it knows the long-term trends.
     3.  **Tools**:
         *   `predict_air_trend`: Uses real historical data (last 48h) and a **Linear Regression** model (via scikit-learn) to forecast PM2.5 levels for the next 2 hours.
