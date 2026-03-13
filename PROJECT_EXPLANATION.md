@@ -91,7 +91,7 @@ An intelligent agent powered by Google Gemini (LLM) and LangChain.
     3.  **Tools**:
         *   `predict_air_trend`: Uses real historical data (7 days ) and a **Linear Regression** model (via scikit-learn) to forecast PM2.5 levels for the next 2 hours.
         *   `check_health_standards`: Retrieves the formal Health Score.
-        *   `manage_hardware`: (Simulated) Can "turn on" purifiers or fans if a user asks.
+        *   `manage_hardware`: (Simulated) Can "turn on" purifiers or fans if a user asks to .
 
 ---
 
