@@ -90,7 +90,7 @@ An intelligent agent powered by Google Gemini (LLM) and LangChain.
     2.  **Context**: The prompt is pre-loaded with a summary of the **Last 7 Days** of data (Avg Temp, Max PM2.5, etc.) so it knows the long-term trends.
     3.  **Tools**:
         *   `predict_air_trend`: Uses real historical data (7 days ) and a **Linear Regression** model (via scikit-learn) to forecast PM2.5 levels for the next 2 hours.
-        *   `check_health_standards`: Retrieves the formal Health Score.
+        *   `check_health_standards`: Retrieves the formal Health Score from the data . 
         *   `manage_hardware`: (Simulated) Can "turn on" purifiers or fans if a user asks to .
 
 ---
