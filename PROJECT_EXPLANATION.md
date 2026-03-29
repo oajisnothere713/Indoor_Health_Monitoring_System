@@ -80,7 +80,7 @@ Generates specific actions based on active issues.
 *   If **Air Quality Poor**: "Run air purifier on high".
 *   If **Noise High**: "Wear protection or isolate source".
 *   If **Humidity High**: "Use a dehumidifier".
-*   If **Lighting Low (< 50 lux)**: "Open blinds or turn on lights".
+*   If **Lighting Low (< 50 lux)**: "Open blinds or turn on lights for better vision ".
 
 ### F. AI Health Guardian (Chatbot)
 **Logic Location**: `backend/agent_engine.py`
