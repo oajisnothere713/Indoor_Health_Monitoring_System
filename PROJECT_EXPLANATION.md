@@ -72,7 +72,7 @@ Real-time monitoring for hazardous conditions.
 *   **Deduplication Logic**:
     *   Prevents notification spam.
     *   **Cooldown**: Allows only one alert *per type* every 60 seconds.
-    *   **Grouping**: Only the latest alert of a specific type (e.g., "High Noise") is kept active at that time . 
+    *   **Grouping**: Only the latest alert of a specific type (e.g., "High Noise") is kept active at the time .
 
 ### E. Recommendation Engine
 **Logic Location**: `backend/recommendation_engine.py`
